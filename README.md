@@ -12,6 +12,7 @@ Find all my socials below 👇
 
 Profiles, history, overlay presets and a built-in update checker
 Comes with a proper installer, so it shows up in Settings → Apps like any normal app
+
 [Download](https://github.com/oscar-054/Update-Checker/releases/latest)      
 
 ## 💬 Get in touch
