@@ -8,7 +8,7 @@ Find all my socials below 👇
 
 ## 🛠️ What I'm working on
 
-oscars Calc: a little always-on-top overlay for Windows that helps with 6-ball puzzle codes in Apeirophobia.
+[oscars Calc](https://github.com/oscar-054/Update-Checker): a little always-on-top overlay for Windows that helps with 6-ball puzzle codes in Apeirophobia.
 
 Profiles, history, overlay presets and a built-in update checker
 Comes with a proper installer, so it shows up in Settings → Apps like any normal app
